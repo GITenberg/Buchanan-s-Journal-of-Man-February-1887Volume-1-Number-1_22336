@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25273'
     url: http://www.gutenberg.org/2009/agents/25273
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22336#Buchanan-s-Journal-of-Man-February-1887Volume-1-Number-1
 gutenberg_bookshelf: Buchanan's Journal of Man
 gutenberg_issued: '2007-08-16'
 gutenberg_type: Text
